@@ -1,20 +1,16 @@
-<h1 align="center">Hi 👋, I'm Aniket Ghavte</h1>
-<h1 align="center">I am a Builder , I Build Product's</h1>
-<h3 align="center">Software Developer | Product Designer | Next.Js | React | TypeScript | React Native| Node.js| MERN Stack | UI/UX | Android</h3>
+<h1 align="center">Hi 👋, I'm Atharva Khewalkar</h1>
+
+<h3 align="center"> React | Express.js | MongoDB| Node.js | MERN Stack</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aniketghavte&label=Profile%20views&color=0e75b6&style=flat" alt="aniketghavte" /> </p>
 
-- 🔭 I’m Building **Mars 🌠**
+- 👨‍💻 All of my projects are available at [atharvakhewalkar](https://atharvakhewalkar.netlify.app/)
 
-- 👨‍💻 All of my projects are available at [aniketghavte.me](https://aniketghavte.me/)
+- 💬 Ask me about **JavaScript, React.js, Express.js,**
 
-- 📝 I regularly write articles on [https://medium.com/@aniketghavte](https://medium.com/@aniketghavte)
+- 📫 How to reach me **kinderhiem14.511@gmail.com**
 
-- 💬 Ask me about **JavaScript, TypeScript, React.js, Next.js,**
 
-- 📫 How to reach me **aniketghavte@gmail.com**
-
-- ⚡ **I am a Artist 🎨**
 
 <img src="https://raw.githubusercontent.com/necm1/necm1/output/snake.svg" alt="Snake animation" />
 
