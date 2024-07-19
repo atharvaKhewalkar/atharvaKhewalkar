@@ -2,7 +2,7 @@
 
 <h3 align="center"> React | Express.js | MongoDB| Node.js | MERN Stack</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aniketghavte&label=Profile%20views&color=0e75b6&style=flat" alt="aniketghavte" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=aniketghavte&label=Profile%20views&color=0e75b6&style=flat" alt="atharva" /> </p>
 
 - 👨‍💻 All of my projects are available at [atharvakhewalkar](https://atharvakhewalkar.netlify.app/)
 
